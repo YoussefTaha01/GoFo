@@ -155,17 +155,7 @@ public class playground {
         this.typeofGrass = typeofGrass;
         this.price=price;
     }
-    /*public void check()
-    {
-        for(int i=0 ;i<24 ;i++) {
-            if (hours[i]!=0) {
-                System.out.println("Not Available");
-            }
-            else{
-                System.out.println("Not Available");
-            }
-        }
-    }*/
+
 
     /**
      * This function is responsible for returning all the information of the playground.
